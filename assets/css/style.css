@@ -1,0 +1,42 @@
+body {
+   margin: 0;
+   width: 50%;
+}
+form {
+   /* width: 50%; */
+   margin: auto;
+   text-align: left;
+   padding: 0;
+   margin: 50px;
+}
+label {
+   display: block;
+   width: 100%;
+   font-weight: bold;
+}
+
+.inputVorname {
+   width: 45%;
+}
+.inputNachname {
+   width: 50%;
+}
+.email {
+   width: 100%;
+}
+.inputThema {
+   width: 100%;
+}
+textarea {
+   height: 100px;
+   width: 100%;
+}
+span {
+   color: red;
+}
+#send {
+   height: 50px;
+   width: 100%;
+   background-color: turquoise;
+   color: white;
+}
